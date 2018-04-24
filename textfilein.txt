@@ -1,0 +1,13 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is CC84-B447
+
+ Directory of C:\Users\taher\Documents\GitHub\MyProject
+
+04/24/2018  07:40 AM    <DIR>          .
+04/24/2018  07:40 AM    <DIR>          ..
+04/24/2018  07:32 AM    <DIR>          logfiles
+04/24/2018  07:32 AM               450 newfolder2
+04/23/2018  07:26 PM               348 Readme.txt
+04/24/2018  07:40 AM                 0 textfilein.txt
+               3 File(s)            798 bytes
+               3 Dir(s)  71,262,400,512 bytes free
